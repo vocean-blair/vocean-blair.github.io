@@ -3,20 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "vocean-blair.github.io"
+  title: "Lara Blair Dominguez"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: sandstone
+      dark: darkly
     css: styles.css
     toc: true
-
-
-
+    page-layout: full

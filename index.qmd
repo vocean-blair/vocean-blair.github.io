@@ -1,11 +1,26 @@
 ---
-title: "vocean-blair.github.io"
+title: "Lara Blair Dominguez"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/larablairdominguez/
+    - text: GitHub
+      href: https://github.com/vocean-blair
+    - text: Email
+      href: lara.blair.dominguez@gmail.com
 ---
 
-This is a Quarto website.
+## Hi There! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Lara Dominguez. I am an ecologist in entomology and interspecies interactions in an urbanized world. 
 
-```{r}
+As the child of teachers and a life-long educator, I consider outreach and science communication an integral part of the scientific process. I seek to incorporate outreach and educating in all of my future career opportunities.
 
-```
+In 2025, I graduated from Carleton College with a Bachelor's of Arts in Biology. 
+
+I'm currently based at Smithsonian Tropical Research in Panamá, studying termite ecology with a focus in the predation responses and thermal tolerances of neotropical arboreal termites. My research is supported by the post-baccalaureate Global Sustainability Scholars RAMP-up fellowship and mentored by Dr. Dumas Galvéz. 
